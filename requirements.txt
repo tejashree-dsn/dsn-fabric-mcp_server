@@ -1,0 +1,6 @@
+mcp>=2.0,<3.0
+pydantic>=2.7,<3.0
+pyodbc>=5.0
+python-dotenv>=1.0
+azure-identity>=1.15
+openpyxl>=3.1

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "dsn-fabric-mcp": {
+      "command": "C:\\ABSOLUTE\\PATH\\TO\\dsn-fabric-mcp-updated\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\ABSOLUTE\\PATH\\TO\\dsn-fabric-mcp-updated\\server.py"
+      ]
+    }
+  }
+}
